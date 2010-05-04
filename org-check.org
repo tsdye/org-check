@@ -385,6 +385,13 @@ Report the scale setting for inline images.  Default is 1.0.
 
 
 
+* Acknowledgments
+Many thanks to the following people for their generous help:
+  - Eric Schulte for setting up the original table and correcting code
+  - Sebastian Rose for the pointer to (featurep FEATURE &optional SUBFEATURE)
+  - Carsten Dominick for [[http://orgmode.org/guide/][Org-mode Guide]] and his many other efforts to
+    make Org-mode accessible to Lisp illiterates
+
 * Notes                                                            :noexport:
 ** TODO Provide a link to the org-check.org file in Instructions
 ** TODO Check, does Windows have something like which?
